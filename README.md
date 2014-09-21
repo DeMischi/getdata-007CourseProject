@@ -1,8 +1,8 @@
 ReadMe: R Script for the course project "Getting and Cleaning Data"
-==
+===================================================================
 
 About this Script
---
+-----------------
 
 Note: You need the reshape2 package installed. Use install.packages("reshape2) to install the package.
 
